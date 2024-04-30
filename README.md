@@ -7,9 +7,8 @@ lazy_dog
 
 ## What is lazy dog
 
-Lazy dog is an attempt at a proof-of-work cryptocurrency with instant confirmations and sub-second block times. 
-It is based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf). 
-We want to ossify now and surpass Bitcoins market cap by 100 times.
+Instant confirmations and sub-second block times, based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf)!.
+Lazy dog is perfect money, ready to ossify. Soon to exceed Bitcoin's market cap by a factor of 100!
 
 ## Requirements
 
