@@ -7,7 +7,7 @@ lazy_dog
 
 ## What is lazy dog
 
-Instant confirmations and sub-second block times, based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf)!.
+Instant confirmations and sub-second block times, based on [the PHANTOM protocol](https://eprint.iacr.org/2018/104.pdf) !
 Lazy dog is perfect money, ready to ossify. Soon to exceed Bitcoin's market cap by a factor of 100!
 Lazy dog keeps the chain unpolutted with inscriptions, tokens, and all that spam. If you
 want any of these than go BTC, SOL, ETH, AVAX and all that junk. 
