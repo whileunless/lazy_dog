@@ -14,9 +14,6 @@ want any of these than go BTC, SOL, ETH, AVAX and all that junk.
 We do one thing, peer-to-peer cash, and we do it well.
 Just perfect money, 100 x Bitcoin,  nothing more. 
 
-## Requirements
-
-Go 1.18 or later.
 
 ## Installation
 
