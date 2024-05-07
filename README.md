@@ -2,6 +2,8 @@
 lazy_dog
 ====
 
+![][1]
+
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/kaspanet/lazy_dog)
 
@@ -57,3 +59,5 @@ $ lazy_dog
 ## License
 
 lazy_dog is licensed under the copyfree [ISC License](https://choosealicense.com/licenses/isc/).
+
+[1]: https://breedingbusiness.com/wp-content/uploads/2020/01/lazy-dog-names-1.jpg
